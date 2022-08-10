@@ -19,5 +19,3 @@ else
 {
     Console.WriteLine("День недели является будним!");   
 }
-
-// string[] week { "Monday", "Tuersday", "Wednesday", "Thirsday", "Friday", "Saturday", "Sunday"};
