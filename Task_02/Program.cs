@@ -11,7 +11,9 @@ if (a == b * b)
     Console.WriteLine("Число " + a + " является квадратом числа " + b);
 }
 
-if (b == a * a)
+else if (b == a * a)
 {
     Console.WriteLine("Число " + b + " является квадратом числа " + a);
 }
+
+Console.WriteLine("Введенные числа не являются квадратами друг друга");
