@@ -11,6 +11,6 @@ for(i = 1; i <= a ; i += 1)
     Console.WriteLine(i);
 }
 
-Console.WriteLine( sum );
+Console.WriteLine("Сумма чисел от 1 до " + a + " = " + sum );
 
 
