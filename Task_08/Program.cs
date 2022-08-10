@@ -1,4 +1,4 @@
-﻿// Подсчитать сумму цифр в числе
+﻿// Подсчитать сумму цифр в числе.
 
 Console.WriteLine("Введите число: ");
 int a = int.Parse(Console.ReadLine());
