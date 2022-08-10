@@ -22,7 +22,7 @@ double result = Math.Sqrt(res);
 
 Console.WriteLine("Расстояние между точками А и В в 2D плоскости = " + result);
 
-Console.WriteLine("Введите три координаты в 3D плоскости");
+Console.WriteLine("Введите три координаты в 3D пространстве");
 
 Console.WriteLine("Введите первую координату точки A");
 int cx = int.Parse(Console.ReadLine());
